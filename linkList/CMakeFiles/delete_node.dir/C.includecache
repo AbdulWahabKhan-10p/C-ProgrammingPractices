@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/abdulwahabkhan/Desktop/linkList/delete_node.c
+stdio.h
+-
+stdlib.h
+-
+linkedList.h
+/home/abdulwahabkhan/Desktop/linkList/linkedList.h
+
+/home/abdulwahabkhan/Desktop/linkList/linkedList.h
+

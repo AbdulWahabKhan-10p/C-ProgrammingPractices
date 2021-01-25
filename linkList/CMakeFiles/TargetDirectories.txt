@@ -1,0 +1,5 @@
+/home/abdulwahabkhan/Desktop/linkList/CMakeFiles/rebuild_cache.dir
+/home/abdulwahabkhan/Desktop/linkList/CMakeFiles/edit_cache.dir
+/home/abdulwahabkhan/Desktop/linkList/CMakeFiles/delete_node.dir
+/home/abdulwahabkhan/Desktop/linkList/CMakeFiles/add_data_value.dir
+/home/abdulwahabkhan/Desktop/linkList/CMakeFiles/find_data_value.dir

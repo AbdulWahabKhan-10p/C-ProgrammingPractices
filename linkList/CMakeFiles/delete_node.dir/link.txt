@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/delete_node.dir/delete_node.c.o  -o delete_node 
